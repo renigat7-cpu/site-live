@@ -1,0 +1,33 @@
+{
+  "url": "https://example.com",
+  "topic": "Artisan Coffee Roastery",
+  "preset": "glassmorphism",
+  "palette": [
+    "rgba(255,255,255,0.65)",
+    "#0F172A",
+    "#38BDF8",
+    "#818CF8"
+  ],
+  "sections": [
+    "Hero",
+    "Features",
+    "Pricing",
+    "About",
+    "Contact"
+  ],
+  "content_plan": {
+    "Hero": "Small-batch roasted specialty coffee delivered fresh to your door",
+    "Features": "[\"Ethically sourced single-origin beans\", \"Roasted to order in micro-batches\", \"Compostable packaging with carbon-neutral shipping\", \"Subscription flexibility with pause anytime\", \"Brew guides and tasting notes included\"]",
+    "Pricing": "Starting at $18/bag with free shipping on subscriptions",
+    "About": "We champion transparent trade and sustainable farming to bring you exceptional coffee while supporting grower communities",
+    "Contact": "Start your coffee journey — subscribe today"
+  },
+  "logo_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"240\" height=\"60\" viewBox=\"0 0 240 60\"><defs><linearGradient id=\"logoGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"rgba(255,255,255,0.65)\"/><stop offset=\"100%\" stop-color=\"#0F172A\"/></linearGradient></defs><rect x=\"8\" y=\"18\" width=\"4\" height=\"24\" rx=\"2\" fill=\"#0F172A\"/><text x=\"22\" y=\"40\" font-family=\"Inter, sans-serif\" font-size=\"30\" font-weight=\"700\" fill=\"url(#logoGrad)\">Artisan Coffee Roastery</text></svg>",
+  "icons": {
+    "Hero": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"rgba(255,255,255,0.65)\"/></svg>",
+    "Features": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"rgba(255,255,255,0.65)\"/></svg>",
+    "Pricing": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"rgba(255,255,255,0.65)\"/></svg>",
+    "About": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"rgba(255,255,255,0.65)\"/></svg>",
+    "Contact": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"rgba(255,255,255,0.65)\"/></svg>"
+  }
+}
